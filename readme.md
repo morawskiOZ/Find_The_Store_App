@@ -24,8 +24,12 @@ Project created with:
 
 ## Setup
 
-Simply go to. It is deployed on heroku so give it a moment.
-Credentials:
-Login: jobforme
-Password: 1234
-<https://find-the-store.herokuapp.com/>
+Simply go to:   
+<https://find-the-store.herokuapp.com/>   
+
+ It is deployed on heroku so give it a moment.
+
+Credentials:  
+Login: jobforme   
+Password: 1234  
+
