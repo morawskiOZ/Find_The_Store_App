@@ -1,27 +1,31 @@
-## What is this?
+# Get_Prime_Numbers
 
-Just you wait folks!
+## Table of contents
+* [General info](#Intro)
+* [Technologies](#Technologies)
+* [Setup](#Setup)
 
-## Sample Data
+## General info
 
-To load sample data, run the following command in your terminal:
-
-```bash
-npm run sample
-```
-
-If you have previously loaded in this data, you can wipe your database 100% clean with:
-
-```bash
-npm run blowitallaway
-```
-
-That will populate 16 stores with 3 authors and 41 reviews. The logins for the authors are as follows:
-
-|Name|Email (login)|Password|
-|---|---|---|
-|Wes Bos|wes@example.com|wes|
-|Debbie Downer|debbie@example.com|debbie|
-|Beau|beau@example.com|beau|
+You can login, search for shopes, add new shopes and review them! Based on MongoDB, NoSQL databsed, node express backend and pug frontend. This App was created based on Wes Bos Node.js course.
 
 
+## Technologies
+
+Project created with:
+* MongoDB
+* NoSQL
+* Node
+* Express
+* Pug
+* Webpack
+* Heroku
+
+
+## Setup
+
+Simply go to. It is deployed on heroku so give it a moment.
+Credentials:
+Login: jobforme
+Password: 1234
+<https://find-the-store.herokuapp.com/>
