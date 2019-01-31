@@ -1,4 +1,4 @@
-# Get_Prime_Numbers
+# Find_The_Store_App
 
 ## Table of contents
 * [General info](#Intro)
